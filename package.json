@@ -1,0 +1,22 @@
+{
+  "name": "bearstroker",
+  "version": "1.0.0",
+  "description": "For stroking bears of course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dumplingpuff/bearstroker.git"
+  },
+  "keywords": [
+    "bear-stroker"
+  ],
+  "author": "Stroker of Bears",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dumplingpuff/bearstroker/issues"
+  },
+  "homepage": "https://github.com/dumplingpuff/bearstroker"
+}
